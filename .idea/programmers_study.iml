@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/LV.0" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LV.1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LV.2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sojung/LV.0" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sojung/LV.1" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
